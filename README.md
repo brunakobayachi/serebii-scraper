@@ -1,2 +1,2 @@
 # serebii-scraper
-Web Scraping de dados de Pokémon usando Python
+Web Scraping with Python, using the lib BeautifulSoup4 /n
